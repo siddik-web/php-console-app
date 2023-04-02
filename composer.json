@@ -1,0 +1,21 @@
+{
+  "name": "siddik-web/php-console-app",
+  "description": "Simple PHP Console Application",
+  "type": "php-cli",
+  "require": {
+    "symfony/console": "6.0.x-dev"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Md Siddiqur Rahman",
+      "email": "siddikcoder@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
