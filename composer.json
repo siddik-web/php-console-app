@@ -3,7 +3,8 @@
   "description": "Simple PHP Console Application",
   "type": "php-cli",
   "require": {
-    "symfony/console": "6.0.x-dev"
+    "symfony/console": "6.0.x-dev",
+    "symfony/filesystem": "6.0.x-dev"
   },
   "license": "MIT",
   "autoload": {
